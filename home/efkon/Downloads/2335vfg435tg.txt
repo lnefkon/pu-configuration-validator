@@ -1,0 +1,17 @@
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — ACTION_BASED_VEHICLE_COUNT_CLASS.csv {row: 9, column: "zone"}: "4.98390155982864E+023" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — ACTION_BASED_VEHICLE_COUNT_CLASS.csv {row: 13, column: "zone"}: "391,323,83,64,1706.982,1639,472" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — ACTIVITY_DETECTION.csv {row: 0, column: "parameters"}: "Tre,1" does not match the pattern "True"
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — ACTIVITY_DETECTION.csv {row: 9, column: "zone"}: "4.98390155982864E+023" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — ACTIVITY_DETECTION.csv {row: 13, column: "zone"}: "391,323,83,64,1706.982,1639,472" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — MOTION_DETECTION.csv {row: 9, column: "zone"}: "4.98390155982864E+023" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — MOTION_DETECTION.csv {row: 13, column: "zone"}: "391,323,83,64,1706.982,1639,472" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — MOTION_IN_POLYLINE.csv {row: 9, column: "zone"}: "4.98390155982864E+023" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — MOTION_IN_POLYLINE.csv {row: 13, column: "zone"}: "391,323,83,64,1706.982,1639,472" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — NO_PARKING.csv {row: 8, column: "zone"}: "3.08266445282426E+022" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — REVERSE.csv {row: 9, column: "zone"}: "4.98390155982864E+023" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — REVERSE.csv {row: 13, column: "zone"}: "391,323,83,64,1706.982,1639,472" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — VEHICLE_COUNT_CLASSIFICATION.csv {row: 9, column: "zone"}: "4.98390155982864E+023" invalid zone coordinates
+2022-03-16 16:41:55,056 — config_validator — CRITICAL — VEHICLE_COUNT_CLASSIFICATION.csv {row: 13, column: "zone"}: "391,323,83,64,1706.982,1639,472" invalid zone coordinates
+2022-03-16 16:41:55,071 — config_validator — DEBUG — server ip not matched in container name perception_docker_1 as deployment required is local not in cluster
+2022-03-16 16:41:55,071 — config_validator — DEBUG — server ip not matched in container name perception_docker_2 as deployment required is local not in cluster
+2022-03-16 16:41:55,071 — config_validator — DEBUG — server ip not matched in container name perception_docker_3 as deployment required is local not in cluster
